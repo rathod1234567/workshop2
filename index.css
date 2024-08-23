@@ -1,0 +1,100 @@
+body{
+    background-image: url('https://cdn.britannica.com/48/252748-050-C514EFDB/Virat-Kohli-India-celebrates-50th-century-Cricket-November-15-2023.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-size: cover;
+    
+}
+header{
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    position: sticky;
+    top: 0px;
+    z-index: 1000;
+
+}
+
+#click{
+    text-align: right;
+
+}
+#para{
+    
+    height: 90px;
+    background-image: linear-gradient(to right, red , yellow, hotpink);
+    margin-top: 20px;
+    border-radius: 10px;
+    text-align: right;
+    position: sticky;
+    top: 90px;
+    z-index: 1000px;
+
+}
+.p1{
+    text-align: left;
+}
+.p2{
+    text-align: center;
+}
+.p3{
+    text-align: right;
+}
+#container{
+background-color:white;
+height: 630px;
+box-shadow: 3px 3px coral;
+text-indent: 40px;
+padding-top: 10px;
+margin-left: 2px;
+margin-right: 2px; 
+margin: 0;
+
+}
+.p4{
+
+text-align: center;
+margin-right: 10px;
+border: 2px solid black;
+height: 165px;
+top: 32px;
+padding-left: 5px;
+margin-left: 10px;
+padding-top: 0px; 
+
+
+}
+.p5{
+width: 1219px;
+text-align: left;
+border: 2px solid black;
+background-image: url('https://images.indianexpress.com/2017/06/maheshbabu-759.jpg?w=1000');
+background-repeat: no-repeat;
+background-size: cover;
+height: 170px;
+margin-left: 10px;
+
+
+}
+.p6{
+width: 1219px;
+text-align: left;
+border: 2px solid black;
+background-image: url('https://images.indianexpress.com/2017/06/maheshbabu-759.jpg?w=414');
+background-repeat: no-repeat;
+background-size: cover;
+height: 170px;
+margin-left: 10px;
+
+}
+#p7{
+background-color: green;
+width: 100%;
+padding-top: 5px;
+text-align: right;
+color: whitesmoke;
+font-size: 25px;
+border: 2px solid black;
+
+
+}
